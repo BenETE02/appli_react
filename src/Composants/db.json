@@ -1,0 +1,54 @@
+{
+  "serviceDonnes": [
+    {
+      "nomService": "DIRECTION",
+      "codeService": "D114E001",
+      "lieuService": "TIASSALE",
+      "emailService": "direct@gmail.com",
+      "id": 1
+    },
+    {
+      "nomService": "ADMINISTRATION PRIVEE",
+      "codeService": "AP65",
+      "lieuService": "SAN-PEDRO",
+      "emailService": "ad@hotmail.com",
+      "id": 2
+    },
+    {
+      "nomService": "FINANCE",
+      "codeService": "F56TA001",
+      "lieuService": "YAMOUSSOUKRO",
+      "emailService": "finance@yahoo.fr",
+      "id": 3
+    }
+  ],
+  "utilisateursDonnes": [
+    {
+      "nom": "ETE",
+      "prenom": "BENOIT",
+      "sexe": "Masculin",
+      "date": "1998-10-02",
+      "lieu": "ABOBO",
+      "email": "benoitete@gmail.com",
+      "id": 1
+    },
+    {
+      "nom": "KONE",
+      "prenom": "MARIAME",
+      "sexe": "Féminin",
+      "date": "2008-03-12",
+      "lieu": "COCODY ANGRE",
+      "email": "maryam@gmail.com",
+      "id": 4
+    },
+    {
+      "nom": "KREMAN",
+      "prenom": "PATRICK JUNIOR",
+      "sexe": "Masculin",
+      "date": "1998-02-11",
+      "lieu": "GRAND-BASSAM",
+      "email": "kreman@yahoo.fr",
+      "id": 5
+    }
+  ]
+}
