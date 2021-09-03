@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+.sidebar {
+  position: fixed;
+  width: 17.5%;
+  height: 100vh;
+  background: #bc43c7;
+  font-size: 0.65em;
+  background: #ce4ada;
+
+}
+
+.sidebar1 {
+  position: fixed;
+  width: 17%;
+  height: 100vh;
+  background: #c74343;
+  font-size: 0.65em;
+}
+
+.nav {
+  position: relative;
+  text-align: center;
+  margin: 0 1%;
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: bold;
+}
+
+.nav ul {
+  list-style: none;
+}
+
+.nav li {
+    position: center;
+    margin: 4em 0;
+}
+.nav a {
+    font-size: 130%;
+    line-height: 5em;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.4em;
+    display: block;
+    transition: all ease-out 300ms;
+}
+    
+.active a {
+    color: white;
+}
+
+.others a{
+    color: white;
+}
+

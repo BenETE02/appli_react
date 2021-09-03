@@ -1,0 +1,15 @@
+.btn, .btn-primary{
+    padding-bottom: 20px;
+    width: 20%;
+    margin-top: auto;
+    height: auto;
+}
+
+.btn-primary:hover{
+    background-color: black;
+    color: white;
+}
+
+.navp{
+    height: 80px;
+}

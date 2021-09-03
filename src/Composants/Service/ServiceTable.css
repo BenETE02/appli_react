@@ -1,0 +1,25 @@
+.table{
+    width: 100%;
+    margin-left: 140px;
+}
+
+td{
+    text-align: center;
+}
+
+thead, th{
+    text-align: center;
+}
+
+.view{
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.view h3{
+    margin-bottom: 40px;
+}
+
+.list-group p{
+    margin-bottom: 40px;
+}
